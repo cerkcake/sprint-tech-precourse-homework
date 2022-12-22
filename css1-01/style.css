@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(119, 107, 107);
+    background-image: url('sss.jpg');
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+
+}
+div{
+    border: 2px dashed orange;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.box-1{
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 150px;
+    padding-left: 20px;
+    padding-right: 10px;
+    background-image: url('aaa.jpg');
+}
+.box-2{
+    padding: 10px;
+    background-color: brown;
+    color: aliceblue;
+}
+.box-3{
+    padding: 10px 10px 150px 20px;
+    background-image: url('aaa.jpg');
+    background-repeat: no-repeat;
+    color: yellowgreen;
+}
+.box-4{
+    padding: 10px;
+    background-color: rgb(12, 29, 48);
+    color: aliceblue;
+}
